@@ -1,0 +1,18 @@
+.holi_card {
+  margin: 50px;
+  border-radius: 20px;
+  /* height: 70vh; */
+  padding: 30px;
+  width: fit-content;
+  box-shadow: 2px 4px 10px 3px rgba(0, 0, 0, 0.3);
+}
+.holi_card > div > h1 {
+  margin: 20px;
+}
+.holi_card > div > p {
+  font-size: 20px;
+}
+.holi_card > div > img {
+  max-width: 400px;
+  object-fit: contain;
+}
